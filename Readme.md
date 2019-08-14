@@ -16,7 +16,7 @@
 ## 如何開始 Getting Started
 ```
 # 下載專案 Clone the repository:
-git clone https://github.com/windate3411/expense-tracker.git
+git clone https://github.com/windate3411/AC_core_final_Q2.git
 
 # 安裝NPM套件 Install NPM dependencies
 npm install
